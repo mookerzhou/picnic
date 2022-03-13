@@ -1,0 +1,10 @@
+theme: minima
+title: '💑 The Wedding Picnic'
+author:
+  name:  '\0/ Buro and Maggie <3'
+timezone: UTC−07:00
+logo: /assets/favicon.png
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
