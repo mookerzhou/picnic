@@ -8,3 +8,4 @@ markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
+header_pages: ['']
