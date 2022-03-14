@@ -4,7 +4,9 @@ image_sliders:
   - slider2
 ---
 
-{% include slider.html selector="slider2" %}
+{:refdef: style="text-align: center;"}
+![delicious](assets/banner-zmagg.png){:class="img-responsive" style="max-width: 100%; height: auto;"}
+{: refdef}
 
 <br>
 
@@ -77,4 +79,4 @@ TODO
 <br />
 <br />
 
-[diy]: https://www.diyweddingrings.com/
+{% include slider.html selector="slider2" %}
