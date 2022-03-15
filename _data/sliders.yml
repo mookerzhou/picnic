@@ -75,6 +75,9 @@
       alt: Photo
     - src: /assets/images/IMG_9468.jpg
       alt: Photo
+    - src: /assets/images/zmagg.jpg
+      alt: Photo
+    - src: /assets/images/IMG_9468.jpg
   settings:
     height: "'auto'"
     effect: "'fade'"
