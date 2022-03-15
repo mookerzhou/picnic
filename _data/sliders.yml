@@ -57,8 +57,6 @@
       alt: Photo
     - src: /assets/images/IMG_5866.jpg
       alt: Photo
-    - src: /assets/images/IMG_5909.JPG
-      alt: Photo
     - src: /assets/images/IMG_6178.JPG
       alt: Photo
     - src: /assets/images/IMG_6413.jpg
@@ -75,9 +73,10 @@
       alt: Photo
     - src: /assets/images/IMG_9468.jpg
       alt: Photo
-    - src: /assets/images/zmagg.jpg
+    - src: /assets/images/zmagg.gif
       alt: Photo
-    - src: /assets/images/IMG_9468.jpg
+    - src: /assets/images/mookerji-flipped.gif
+      alt: Photo
   settings:
     height: "'auto'"
     effect: "'fade'"
