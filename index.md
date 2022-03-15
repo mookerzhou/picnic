@@ -5,18 +5,26 @@ image_sliders:
 ---
 
 {:refdef: style="text-align: center;"}
-![delicious](assets/banner-zmagg.png){:class="img-responsive" style="max-width: 100%; height: auto;"}
+![delicious](assets/banner-zmagg.png){:class="img-responsive" style="max-width: 75%; height: auto;"}
 {: refdef}
 
 <br>
 
+<font size="3">
 👋 Hello! 👋
 
-Come picnic with us to celebrate our marriage! We're having a tiny family wedding and are inviting our friends and
-extended community to celebrate with us over a lunch picnic at **Hellman Hollow
-in Golden Gate Park** on May 7, 2022.
+<br />
+<br />
 
-We ask that you **please RSVP** by filling out this form!
+Come picnic with us to celebrate our marriage! We're having a tiny family wedding and are inviting our friends and
+extended community to celebrate afterward, with a lunch picnic at <b>Hellman Hollow
+in Golden Gate Park</b> on May 7, 2022.
+<br />
+<br /> 
+We ask that you <b>please RSVP</b> by filling out this form!
+<br />
+
+</font>
 
 <br />
 
