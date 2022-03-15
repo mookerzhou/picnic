@@ -12,18 +12,55 @@ image_sliders:
 
 👋 Hello! 👋
 
-We're having a **_tiny family wedding_** and are inviting our friends and
-extended community to celebrate with us with a lunch picnic at **Hellman Hollow
+Come picnic with us to celebrate our marriage! We're having a tiny family wedding and are inviting our friends and
+extended community to celebrate with us over a lunch picnic at **Hellman Hollow
 in Golden Gate Park** on May 7, 2022.
 
 We ask that you **please RSVP** by filling out this form!
 
+<br />
+
+## 📅 Schedule
+
+<table style="border-style: hidden; background-color: white" width="70%">
+  <tbody>
+    <tr style="background-color: white">
+      <td style="border-style: hidden; text-align: center;"> </td>
+      <td style="text-align: center; border-style: hidden;"> </td>
+    </tr>
+     <tr style="background-color: white">
+      <td style="border-style: hidden; text-align: center;"> </td>
+      <td style="text-align: center; border-style: hidden;"><strong>Saturday, May 7 2022</strong></td>
+    </tr>
+    <tr style="background-color: white">
+      <td style="border-style: hidden; text-align: center;">11:30 AM</td>
+      <td style="text-align: center; border-style: hidden;">Arrive at Hellman Hollow</td>
+    </tr>
+    <tr style="background-color: white">
+      <td style="border-style: hidden; text-align: center;">12:00 PM</td>
+      <td style="text-align: center; border-style: hidden;">Picnic lunch and games</td>
+    </tr>
+    <tr style="background-color: white">
+      <td style="border-style: hidden; text-align: center;">1:30 PM</td>
+      <td style="text-align: center; border-style: hidden;">Dessert! with toasts & readings</td>
+    </tr>
+    <tr style="background-color: white">
+      <td style="border-style: hidden; text-align: center;">2:00 PM</td>
+      <td style="text-align: center; border-style: hidden;">Picnic continues...stay as long as you wish!</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## 🧺 Directions
 
-Tables X and Y
+We'll be at Tables #13-#18 in Hellman Hollow! That's the most southwestern corner of that area.
 
-If driving, look out for bicyclists, hikers, and students on or near the
-road. See the map below.
+If arriving by bike/feet/rollerblades/longboard/unicycle, you probably don't need directions, you do you!
+
+The 5/7 buses are good options for public transportation. They'll drop you off on the park's borders and you can walk in.
+
+This is an area of the park immediately west of the section of JFK that's closed to cars. If driving, plan on parking on Tranverse / Crossover Drive, or further west on JFK. 
 
 <br /><br />
 <div style="text-align:center">
@@ -49,16 +86,30 @@ Once we get closer to the event, we'll post a link here to upload photos.
 
 <br />
 
+
 ### 🥧  What should I bring?
 
-TODO
+Yourself! If you're local, bring something to sit on (lawn chair / blanket). We'll have plenty of extras for travellers or if you forget. 
+
+We'll be providing lunch and drinks for everybody. If you're excited about making a celebratory dessert, let us know in the registration form.
+
+<br />
+
+### 🙋 Can I help?
+
+Absolutely! Checkout the registration form for ideas or reach out to us directly.
+
+<br />
+
+### 👪 Can I bring a +1? Children? Dog? My +1's child's dog?
+
+Yes. Just let us know who to expect in the registration form.
 
 <br />
 
 ### 🧥 What should I wear?
 
-Layers! San Francisco can get chilly! We recommend bringing a jacket and a light
-sweater as appropriate.
+Dress code wise, come as you are. But we'd be remiss if we didn't remind you that this is a foggy area of the city. Bring layers and expect wind.
 
 <br />
 
@@ -69,6 +120,7 @@ Yes! We were planning to have an SF City Hall wedding in April 2020, but ...
 TODO
 
 <br />
+
 <center>
     <strong>
         <i>
@@ -76,6 +128,11 @@ TODO
         </i>
     </strong>
 </center>
+<br />
+<br />
+
+P.S. Enjoy this slideshow of photos from the last decade of our friendship.
+
 <br />
 <br />
 
