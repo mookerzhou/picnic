@@ -10,21 +10,22 @@ image_sliders:
 
 <br>
 
-<font size="3">
+<font size="4">
 👋 Hello! 👋
-
 <br />
 <br />
 
-Come picnic with us to celebrate our marriage! We're having a tiny family wedding and are inviting our friends and
-extended community to celebrate afterward, with a lunch picnic at <b>Hellman Hollow
-in Golden Gate Park</b> on May 7, 2022.
+Come picnic with us to celebrate our marriage! We're having a Tiny Family Wedding and are inviting our friends and
+extended community to celebrate afterward &mdash; with a lunch picnic &mdash; at <b>Hellman Hollow
+in Golden Gate Park</b> on <b>May 7, 2022</b>.
 <br />
-<br /> 
-We ask that you <b>please RSVP</b> by filling out this form!
+<br />
+We ask that you <b>please RSVP</b> by filling out this form: 👉👉 &nbsp;&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSeoF9UjQusCFnYUZJFO3cWeLAiIEas7OpCDTyWpdxFdtcxTPw/viewform"><b>LINK</b></a>&nbsp;&nbsp;👈👈!
 <br />
 
 </font>
+
+[form_link]: https://docs.google.com/forms/d/e/1FAIpQLSeoF9UjQusCFnYUZJFO3cWeLAiIEas7OpCDTyWpdxFdtcxTPw/viewform
 
 <br />
 
@@ -62,13 +63,19 @@ We ask that you <b>please RSVP</b> by filling out this form!
 
 ## 🧺 Directions
 
-We'll be at Tables #13-#18 in Hellman Hollow! That's the most southwestern corner of that area.
+We'll be at Tables #13-#18 in Hellman Hollow! That's the most southwestern
+corner of that area.
 
-If arriving by bike/feet/rollerblades/longboard/unicycle, you probably don't need directions, you do you!
-
-The 5/7 buses are good options for public transportation. They'll drop you off on the park's borders and you can walk in.
-
-This is an area of the park immediately west of the section of JFK that's closed to cars. If driving, plan on parking on Tranverse / Crossover Drive, or further west on JFK. 
+- **Non-motorized transit**. If arriving by
+  bike/feet/rollerblades/longboard/unicycle, you probably don't need directions,
+  you do you!
+- **Public transportation**. The MUNI 5 and 7 buses are good options for public
+  transportation. They'll drop you off on the park's northern borders and you
+  can walk in. You can also take the MUNI N line to the park's southern border
+  in the Inner Sunset and walk up from there.
+- **Driving**. This is an area of the park immediately east of the section of
+  JFK that's closed to cars. If driving, plan on parking on Tranverse /
+  Crossover Drive, or further west on JFK.
 
 <br /><br />
 <div style="text-align:center">
@@ -97,9 +104,11 @@ Once we get closer to the event, we'll post a link here to upload photos.
 
 ### 🥧  What should I bring?
 
-Yourself! If you're local, bring something to sit on (lawn chair / blanket). We'll have plenty of extras for travellers or if you forget. 
+Yourself! If you're local, bring something to sit on, such as a lawn chair or
+blanket. We'll have plenty of extras for travellers or if you forget.
 
-We'll be providing lunch and drinks for everybody. If you're excited about making a celebratory dessert, let us know in the registration form.
+We'll be providing lunch and drinks for everybody. If you're excited about
+making a celebratory dessert, let us know in the RSVP form ([link][form_link]).
 
 <br />
 
@@ -111,21 +120,22 @@ Absolutely! Checkout the registration form for ideas or reach out to us directly
 
 ### 👪 Can I bring a +1? Children? Dog? My +1's child's dog?
 
-Yes. Just let us know who to expect in the registration form.
+Yes. Just let us know who to expect in the [RSVP form][form_link].
 
 <br />
 
 ### 🧥 What should I wear?
 
-Dress code wise, come as you are. But we'd be remiss if we didn't remind you that this is a foggy area of the city. Bring layers and expect wind.
+Dress code: come as you are!
+
+We'd be remiss if we didn't remind you that this is a foggy area of the
+city. Bring layers and expect light wind.
 
 <br />
 
 ### 💍  Whoa, you're getting married?
 
 Yes! We were planning to have an SF City Hall wedding in April 2020, but ...
-
-TODO
 
 <br />
 
