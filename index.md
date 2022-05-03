@@ -51,7 +51,7 @@ We ask that you <b>please RSVP</b> by filling out this form: 👉👉 &nbsp;&nbs
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">1:30 PM</td>
-      <td style="text-align: center; border-style: hidden;">Dessert! with toasts & readings</td>
+      <td style="text-align: center; border-style: hidden;">Dessert!</td>
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">2:00 PM</td>
