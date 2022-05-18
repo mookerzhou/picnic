@@ -87,7 +87,7 @@ corner of that area.
 
 ## 📸 Photos
 
-Once we get closer to the event, we'll post a link here to upload photos.
+Upload any photos you take to the [album][album]!
 
 [album]: https://photos.app.goo.gl/xdXo85k2QW2CSyR17
 
